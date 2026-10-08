@@ -15,7 +15,7 @@ switch($dia){
         echo "Quarta-Feira";
         break;
     case 5;
-        echo "Quinta-Feira"
+        echo "Quinta-Feira";
         break;
     case 6;
         echo "Sexta-Feira";
