@@ -8,7 +8,7 @@ while($contador < 5){
 do{
     echo $contador."<br>";
     $contador++;
-}while($contador < 5)
+}while($contador < 5);
 //--------------------------------------
 for($i=0;$i<=5;$i++){
     echo $i.",";
